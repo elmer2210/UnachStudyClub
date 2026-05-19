@@ -84,7 +84,6 @@ Abre tu terminal y clona el proyecto ejecutando:
 ```bash
 git clone https://github.com/elmer2210/unachstudyclub.git
 ```
-*(Nota: Reemplaza la URL por el enlace real del repositorio del equipo).*
 
 ### 3. Instalar dependencias
 Navega hasta la carpeta del proyecto e instala los paquetes necesarios:
