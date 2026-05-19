@@ -1,0 +1,44 @@
+Funciones principales
+---------------------
+1. Búsqueda de grupos de estudio por:
+   - Materia
+   - Tema específico
+   - Semestre
+   - Horarios disponibles
+
+2. Creación de grupos de estudio:
+   - Formulario para crear un grupo
+   - Descripción, requisitos y modalidad (virtual/presencial)
+   - Límite de integrantes
+
+3. Gestión interna del grupo:
+   - Chat interno o enlace a un canal externo
+   - Calendario de reuniones
+   - Recordatorios automáticos
+
+4. Perfil del estudiante:
+   - Materias inscritas
+   - Intereses académicos
+   - Historial de participación en grupos
+
+5. Panel administrativo:
+   - Moderación de grupos
+   - Control de publicaciones duplicadas
+   - Sistema de reportes
+
+Ventajas
+--------
+- Centraliza toda la información sobre grupos de estudio en un solo sitio.
+- Facilita encontrar estudiantes con horarios y materias compatibles.
+- Reduce la dependencia de redes sociales dispersas y poco organizadas.
+- Aumenta la participación estudiantil y promueve el aprendizaje colaborativo.
+- Optimiza el tiempo de los alumnos al evitar búsquedas manuales o publicaciones repetidas.
+
+Posibles mejoras futuras
+------------------------
+- Implementación de un sistema de recomendaciones basado en IA.
+- Integración con calendarios externos (Google Calendar, Outlook).
+- Aplicación móvil para acceso más rápido.
+- Gamificación: insignias, niveles o recompensas por participación.
+- Integración con plataformas educativas institucionales (Moodle, EVA).
+- Sistema de videollamadas integrado.
